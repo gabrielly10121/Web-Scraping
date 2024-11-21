@@ -5,9 +5,13 @@ Esse projeto foi desenvolvido para fazer scraping de um site específico (https:
 Tecnologias e Ferramentas:
 
 Python: A principal linguagem utilizada para automação e manipulação de dados.
+
 BeautifulSoup: Para fazer o scraping da página HTML e extrair os dados de forma fácil.
+
 Pandas: Para manipulação e organização dos dados, gerando os arquivos JSON, CSV e Excel.
+
 openpyxl: Para criar e salvar o arquivo Excel.
+
 Requests: Para fazer as requisições HTTP e pegar os dados da página.
 
 Como funciona:
