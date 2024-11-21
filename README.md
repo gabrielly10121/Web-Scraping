@@ -15,5 +15,6 @@ openpyxl: Para criar e salvar o arquivo Excel.
 Requests: Para fazer as requisições HTTP e pegar os dados da página.
 
 Como funciona:
+
 O código começa com uma requisição HTTP para o site e utiliza o BeautifulSoup para entender e extrair as informações da página. Depois, ele pega todas as imagens e cabeçalhos encontrados e salva esses dados de maneira bem organizada. O projeto também tem a função de modificar o conteúdo do HTML, como adicionar ou alterar tags.
 Eu fiz tudo isso usando o VS Code, que é minha IDE favorita para programar. É bem simples de rodar o código, só precisar de um ambiente Python configurado.
